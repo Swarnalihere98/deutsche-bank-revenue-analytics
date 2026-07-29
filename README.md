@@ -61,11 +61,8 @@ FROM ordered_quarters;
 
 ```
 
-Repository Structure
+## 🖼️ Dashboard & Visual Analytics
 
-├── Deutsche_Bank_NetRevenue_Report.xlsx   # Raw multi-sheet financial data
-├── deutsche_bank_etl.ipynb                # Complete Jupyter Notebook (ETL + SQL + Charts)
-├── Deutsche_Bank_NetRevenues_Clean.csv    # Exported clean dataset for Tableau
-├── deutsche_bank.db                       # Local SQLite database file
-├── yoy_growth_bar_chart.png               # Rendered Matplotlib chart
-└── README.md                              # Portfolio documentation
+### Tableau C-Suite Executive Dashboard
+![Tableau Executive Dashboard](tableau_dashboard.png)
+
