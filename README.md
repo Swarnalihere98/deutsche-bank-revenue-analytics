@@ -18,15 +18,15 @@ Over the 12-quarter period from **Q1 2023 through Q4 2025**, Deutsche Bank gener
 
 ## 🛠️ End-to-End Pipeline Architecture
 
-Messy Excel Reports]
+[Messy Excel Reports]
 │
-▼ (Python & Pandas)
+(Python & Pandas)
 [Automated ETL & Unpivoting]
 │
-▼ (SQLite Database)
+(SQLite Database)
 [SQL Window Functions (QoQ / YoY)]
 │
-▼ (Matplotlib & Tableau)
+(Matplotlib & Tableau)
 [Executive Dashboards & Charts]
 
 ---
@@ -63,6 +63,6 @@ FROM ordered_quarters;
 
 ## 🖼️ Dashboard & Visual Analytics
 
-### Tableau C-Suite Executive Dashboard
+### Tableau C-Suite Interactive Dashboard
 ![Tableau Executive Dashboard](tableau_dashboard.png)
 
